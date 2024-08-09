@@ -1,9 +1,3 @@
-# MVC
-
-M - Model (definições das classes/entidades)
-V - View (fuções de print/input)
-C - Controller (controladores do app)
-
 
 ![Captura de Tela](menu-principal.png)
 Menu Principal
