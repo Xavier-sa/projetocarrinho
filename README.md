@@ -4,7 +4,8 @@
 
 ## 👋 Olá! Sou Xavier
 
-Sou um estudante de **Desenvolvimento de Sistemas** com uma grande paixão por programação web. Estou em constante busca de novos desafios e oportunidades para aprimorar minhas habilidades. Meu objetivo é aprender e crescer, aplicando soluções inovadoras em projetos diversos.
+Sou um estudante de **Desenvolvimento de Sistemas**. Estou em constante busca de novos desafios e oportunidades para aprimorar minhas habilidades.
+Meu objetivo é aprender e crescer, aplicando soluções inovadoras em projetos diversos.
 
 ---
 
